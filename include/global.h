@@ -305,6 +305,7 @@ struct SaveBlock2
               u16 optionsBattleStyle:2; // OPTIONS_BATTLE_STYLE_[PREDICT/SHIFT/SET]
               u16 optionsBattleSceneOff:1; // whether battle animations are disabled
               u16 regionMapZoom:1; // whether the map is zoomed in
+			  u16 expShare:1;
               u16 battleAnimSpeed:2; //whether intro slide is disabled and HP bar drops fast
     /*0x018*/ struct Pokedex pokedex;
     /*0x090*/ u8 filler_90[0x8];
