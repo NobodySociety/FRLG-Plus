@@ -5904,7 +5904,7 @@
       "price": 0,
       "holdEffect": "HOLD_EFFECT_NONE",
       "holdEffectParam": 0,
-      "description_english": "A pouch for carrying Berries.\\nIt is attached to the BAG's\\ncompartment for important items.",
+      "description_english": "A pouch for carrying Berries.\\nIt is attached to the Bag's\\ncompartment for important items.",
       "importance": 1,
       "exitsBagOnUse": 1,
       "pocket": "POCKET_KEY_ITEMS",
