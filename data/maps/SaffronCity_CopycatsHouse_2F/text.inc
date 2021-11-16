@@ -96,7 +96,7 @@ Text_MimicTaughtFemale2:: @ 819AE90
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo:: @ 819B030
     .string "Doduo: Giiih!\p"
-    .string "Pretty Mirror Look At Me,\n"r
+    .string "Pretty Mirror Look At Me,\n"
     .string "See How Pretty I Can Be?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll:: @ 819B071
@@ -113,4 +113,3 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets:: @ 819B0D0
     .string "Skill: Mimicry!\n"
     .string "Hobby: Collecting dolls!\l"
     .string "Favorite Pokémon: Clefairy!$"
-

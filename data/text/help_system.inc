@@ -974,7 +974,7 @@ Help_Text_HowToUseBag2:: @ 81B747E
 Help_Text_HowToReadPokedex:: @ 81B752C
 	.string "{CIRCLE_1} Pokémon that you have caught are\n"
 	.string "   identified by a Poké Ball mark on\n"
-	.string "   the PokéDEX list.\n"
+	.string "   the Pokédex list.\n"
 	.string "{CIRCLE_2} A caught Pokémon will provide a\n"
 	.string "   large amount of data.\n"
 	.string "{CIRCLE_3} Select “Next Data” to display the\n"

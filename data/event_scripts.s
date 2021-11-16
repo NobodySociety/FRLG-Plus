@@ -815,8 +815,8 @@ Text_WantWhichFloor:: @ 81A535C
 	.string "Which floor do you want?$"
 
 Text_BagItemCanBeRegistered:: @ 81A5375
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "An item in the Bag can be\n"
+	.string "registered to Select for easy use.$"
 
 Text_PlayerBootedUpPC:: @ 81A5420
 	.string "{PLAYER} booted up the PC.$"
@@ -826,12 +826,12 @@ gText_PkmnFainted3:: @ 81A5476
 	.string "$"
 
 Text_WelcomeWantToHealPkmn:: @ 81A5483
-	.string "Welcome to our POKéMON CENTER!\p"
+	.string "Welcome to our Pokémon Center!\p"
 	.string "Would you like me to heal your\n"
-	.string "POKéMON back to perfect health?$"
+	.string "Pokémon back to perfect health?$"
 
 Text_TakeYourPkmnForFewSeconds:: @ 81A54E1
-	.string "Okay, I'll take your POKéMON for a\n"
+	.string "Okay, I'll take your Pokémon for a\n"
 	.string "few seconds.$"
 
 Text_WeHopeToSeeYouAgain:: @ 81A5511
@@ -839,14 +839,14 @@ Text_WeHopeToSeeYouAgain:: @ 81A5511
 
 Text_RestoredPkmnToFullHealth:: @ 81A552B
 	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
+	.string "We've restored your Pokémon to\l"
 	.string "full health.$"
 
 	.include "data/text/surf.inc"
 
 Text_WirelessClubUndergoingAdjustments:: @ 81A561A
 	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
+	.string "The Pokémon Wireless Club is\l"
 	.string "undergoing adjustments now.$"
 
 Text_AppearsToBeUndergoingAdjustments:: @ 81A5667
@@ -868,23 +868,23 @@ Text_GiveNicknameToThisMon:: @ 81A56A7
 
 Text_CardKeyOpenedDoor:: @ 81A5B88
 	.string "Bingo!\n"
-	.string "The CARD KEY opened the door!$"
+	.string "The Card Key opened the door!$"
 
 Text_ItNeedsCardKey:: @ 81A5BAD
 	.string "No!\n"
-	.string "It needs a CARD KEY!$"
+	.string "It needs a Card Key!$"
 
 Text_AccessedProfOaksPC:: @ 81A5BC6
-	.string "Accessed PROF. OAK's PC…\p"
-	.string "Accessed the POKéDEX Rating\n"
+	.string "Accessed Prof. Oak's PC…\p"
+	.string "Accessed the Pokédex Rating\n"
 	.string "System…$"
 
 Text_HavePokedexRated:: @ 81A5C03
 	.string "Would you like to have your\n"
-	.string "POKéDEX rated?$"
+	.string "Pokédex rated?$"
 
 Text_ClosedLinkToProfOaksPC:: @ 81A5C2E
-	.string "Closed link to PROF. OAK's PC.$"
+	.string "Closed link to Prof. Oak's PC.$"
 
 Text_VoiceRangOutDontRunAway:: @ 81A5C4D
 	.string "Someone's voice rang out,\n"

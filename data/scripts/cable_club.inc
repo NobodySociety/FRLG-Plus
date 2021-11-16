@@ -1735,13 +1735,13 @@ CableClub_Text_EnjoyUnionRoom:: @ 81BD86A
 
 CableClub_Text_FirstTimeRightThisWay:: @ 81BD898
 	.string "Hello!\n"
-	.string "My name is TEALA.\p"
+	.string "My name is Teala.\p"
 	.string "This must be your first time\n"
 	.string "up here.\p"
 	.string "I'll show you how the Wireless\n"
 	.string "Communication System works.\p"
 	.string "First, I need to show you this\n"
-	.string "floor of our Pokémon CENTER.\p"
+	.string "floor of our Pokémon Center.\p"
 	.string "Right this way, please.$"
 
 CableClub_Text_ExplainWirelessClubFirstTime:: @ 81BD966
@@ -1749,7 +1749,7 @@ CableClub_Text_ExplainWirelessClubFirstTime:: @ 81BD966
 	.string "rooms.\p"
 	.string "First, the room on the left.\n"
 	.string "It's the Union Room.\p"
-	.string "You may link up with TRAINERS\n"
+	.string "You may link up with Trainers\n"
 	.string "around you who have also entered\l"
 	.string "the Union Room.\p"
 	.string "With them, you may do things like\n"
@@ -1780,7 +1780,7 @@ CableClub_Text_ExplainWirelessClub:: @ 81BDBF8
 	.string "two rooms.\p"
 	.string "First, the room on the left.\n"
 	.string "It's the Union Room.\p"
-	.string "You may link up with TRAINERS\n"
+	.string "You may link up with Trainers\n"
 	.string "around you who have also entered\l"
 	.string "the Union Room.\p"
 	.string "With them, you may do things like\n"
