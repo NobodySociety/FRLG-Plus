@@ -2275,30 +2275,30 @@ Text_Scientist_ShowPowerfulMon:
     .string "radiates strength…\l"
     .string "Wonderful!\p"
     .string "I thank you… You showed me a\n"
-    .string "a truly amazing POKéMON.\p"
+    .string "a truly amazing Pokémon.\p"
     .string "I think you deserve the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "{STR_VAR_1} Master!$"
 
 Text_BeautyLass_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\p"
+    .string "I'm the {STR_VAR_1} Master!\p"
     .string "My goal is to find the ultimate\n"
     .string "{STR_VAR_1}!$"
 
 Text_BirdKeeperCooltrainer_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\p"
+    .string "I'm the {STR_VAR_1} Master!\p"
     .string "I aim to find the ultimate\n"
     .string "{STR_VAR_1}!$"
 
 Text_BugCatcherYoungster_Intro:
-    .string "I'm the {STR_VAR_1} MASTER!\n"
+    .string "I'm the {STR_VAR_1} Master!\n"
     .string "I seek the ultimate {STR_VAR_1}!$"
 
 Text_PsychicScientist_Intro:
-    .string "I am the {STR_VAR_1} MASTER!\n"
+    .string "I am the {STR_VAR_1} Master!\n"
     .string "I seek the ultimate {STR_VAR_1}.$"
 
 Text_BlackBeltHiker_Intro:
-    .string "I am the {STR_VAR_1} MASTER!\p"
+    .string "I am the {STR_VAR_1} Master!\p"
     .string "My only desire is to find the\n"
     .string "ultimate {STR_VAR_1}!$"
 
@@ -2501,36 +2501,36 @@ Text_BeautyLass_GiveTitle: // a/an
     .string "Oh wow… Your {STR_VAR_1} is way\n"
     .string "stronger than I thought!\p"
     .string "I think you deserve to be called\n"
-    .string "{STR_VAR_3} {STR_VAR_1} MASTER!$"
+    .string "{STR_VAR_3} {STR_VAR_1} Master!$"
 
 Text_BirdKeeperCooltrainer_GiveTitle:
     .string "I can't believe it… Your\n"
     .string "{STR_VAR_1}… It's too powerful!\p"
     .string "You are the one who deserves the\n"
-    .string "title of {STR_VAR_1} MASTER!$"
+    .string "title of {STR_VAR_1} Master!$"
 
 Text_BugCatcherYoungster_GiveTitle:
     .string "Aw, c'mon! Your {STR_VAR_1}\n"
     .string "is way too strong!\p"
     .string "You definitely deserve the title\n"
-    .string "of {STR_VAR_1} MASTER!$"
+    .string "of {STR_VAR_1} Master!$"
 
 Text_PsychicScientist_GiveTitle:
     .string "I can't believe this… Your\n"
     .string "{STR_VAR_1} is too strong!\p"
     .string "I think you deserve the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "{STR_VAR_1} Master!$"
 
 Text_BlackBeltHiker_GiveTitle:
     .string "B-but how…? Your {STR_VAR_1} is\n"
     .string "more powerful than any I've seen\l"
     .string "before!\p"
     .string "You are truly worthy of the title\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "{STR_VAR_1} Master!$"
 
 Text_MasterTrainer_EarnTitle:
     .string "{COLOR DARK_GRAY}You have earned the title of\n"
-    .string "{STR_VAR_1} MASTER!$"
+    .string "{STR_VAR_1} Master!$"
 
 Text_BeautyLass_AnotherBattleSometime:
     .string "We should have another battle\n"

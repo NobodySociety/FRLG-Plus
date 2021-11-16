@@ -109,21 +109,21 @@ EventScript_PkmnCenterNurse_ReturnPkmnTrainerCard:: @ 81A661D
 	return
 
 Text_WelcomeTrainerCardFirst::
-	.string "Welcome to our POKéMON CENTER!\p"
+	.string "Welcome to our Pokémon Center!\p"
 	.string "Would you like me to…\n"
-	.string "Th-that TRAINER CARD!\p"
+	.string "Th-that Trainer Card!\p"
 	.string "That wonderful shade!\n"
 	.string "And all those stars!\p"
-	.string "I've seen several TRAINERS\n"
-	.string "with BRONZE CARDS up to now…\p"
+	.string "I've seen several Trainers\n"
+	.string "with Bronze Cards up to now…\p"
 	.string "But you're the first to top them\n"
-	.string "with that TRAINER CARD.\p"
+	.string "with that Trainer Card.\p"
 	.string "Please, {PLAYER}, may I have the\n"
-	.string "honor of healing your POKéMON?$"
+	.string "honor of healing your Pokémon?$"
 
 Text_TakeYourPkmnForFewSecondsTrainerCard:: @ 81A54E1
 	.string "I will be pleased to take your\n"
-	.string "POKéMON for a few seconds.$"
+	.string "Pokémon for a few seconds.$"
 
 Text_WelcomeTrainerCard::
 	.string "Great to see you, {PLAYER}!\n"
@@ -150,12 +150,12 @@ EventScript_SoftlockClerk_NoRoom::
 	end
 
 Text_SoftlockClerk_Initial::
-	.string "Hello, TRAINER!\p"
-	.string "We've partnered with the POKéMON\n"
-	.string "CENTER to do a special giveaway!\p"
+	.string "Hello, Trainer!\p"
+	.string "We've partnered with the Pokémon\n"
+	.string "Cener to do a special giveaway!\p"
 	.string "Congratulations, you're the lucky\n"
 	.string "winner! Enjoy your prize!$"
 
 Text_SoftlockClerk_GaveAlready::
-	.string "Hello, TRAINER!\n"
-	.string "Put those POKé BALLS to good use!$"
+	.string "Hello, Trainer!\n"
+	.string "Put those Poké Balls to good use!$"

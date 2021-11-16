@@ -23,10 +23,10 @@ EventScript_UsedRepel:
 	end
 
 Text_RepelWoreOff:: @ 81BFB6E
-	.string "REPEL's effect wore off…$"
+	.string "Repel's effect wore off…$"
 
 Text_UseAnother::
-	.string "REPEL's effect wore off!\n"
+	.string "Repel's effect wore off!\n"
 	.string "Use another?$"
 
 Text_UsedNewRepel::

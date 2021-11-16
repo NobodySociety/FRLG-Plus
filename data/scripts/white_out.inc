@@ -32,21 +32,21 @@ EventScript_NoPMCHaveMons_Nurse::
 	end
 
 Text_SwappedForYou_NuzlockeOnly::
-	.string "I've swapped a POKéMON from your\n"
-	.string "BOX with a POKéMON in your party.\p"
-	.string "If your POKéMON's energy, HP, is\n"
+	.string "I've swapped a Pokémon from your\n"
+	.string "Box with a Pokémon in your party.\p"
+	.string "If your Pokémon's energy, HP, is\n"
 	.string "low, come see us before they faint.\p"
 	.string "If you're planning to go far in the\n"
-	.string "field, you should buy some POTIONS\l"
-	.string "at the POKéMON MART.\p"
+	.string "field, you should buy some Potions\l"
+	.string "at the Pokémon Mart.\p"
 	.string "We hope you excel!$"
 
 Text_SwappedForYou_NoPMCOnly::
-	.string "I've swapped a POKéMON from your\n"
-	.string "BOX with a POKéMON in your party.\p"
+	.string "I've swapped a Pokémon from your\n"
+	.string "Box with a Pokémon in your party.\p"
 	.string "If you're planning to go far in the\n"
-	.string "field, you should buy some POTIONS\l"
-	.string "at the POKéMON MART.\p"
+	.string "field, you should buy some Potions\l"
+	.string "at the Pokémon Mart.\p"
 	.string "We hope you excel!$"
 
 EventScript_AfterWhiteOutHealMsgPreBrock:: @ 81A8DC6
@@ -250,8 +250,8 @@ EventScript_NuzlockeGameOver_Loop_Mom_10:
 	return
 
 Text_NuzlockeGameOver::
-	.string "You have no more POKéMON that can\n"
-	.string "battle in your POKéMON PC.\p"
+	.string "You have no more Pokémon that can\n"
+	.string "battle in your Pokémon PC.\p"
 	.string "You can either reset to the last\n"
 	.string "time you saved, or turn off\l"
 	.string "NUZLOCKE MODE and heal your party.$"
@@ -277,38 +277,38 @@ EventScript_NoPMCHaveMons_Mom::
 	end
 
 Text_SwappedForYou_NuzlockeOnly_Mom::
-	.string "MOM: {PLAYER}!\n"
+	.string "Mom: {PLAYER}!\n"
 	.string "Welcome home.\p"
 	.string "It sounds like you had quite\n"
 	.string "an experience.\p"
-	.string "I've swapped a POKéMON from your\n"
-	.string "BOX with a POKéMON in your party.\p"
-	.string "I just heard from PROF. OAK.\p"
-	.string "He said that POKéMON's energy is\n"
+	.string "I've swapped a Pokémon from your\n"
+	.string "Box with a Pokémon in your party.\p"
+	.string "I just heard from Prof. Oak.\p"
+	.string "He said that Pokémon's energy is\n"
 	.string "measured in HP.\p"
-	.string "If your POKéMON lose their HP,\n"
+	.string "If your Pokémon lose their HP,\n"
 	.string "you can restore them at any\l"
-	.string "POKéMON CENTER before they faint.\p"
+	.string "Pokémon Center before they faint.\p"
 	.string "If you're going to travel far away,\n"
-	.string "the smart TRAINER stocks up on\l"
-	.string "POTIONS at the POKéMON MART.\p"
+	.string "the smart Trainer stocks up on\l"
+	.string "Potions at the Pokémon Mart.\p"
 	.string "Make me proud, honey!\p"
 	.string "Take care!$"
 
 Text_SwappedForYou_NoPMCOnly_Mom::
-	.string "MOM: {PLAYER}!\n"
+	.string "Mom: {PLAYER}!\n"
 	.string "Welcome home.\p"
 	.string "It sounds like you had quite\n"
 	.string "an experience.\p"
-	.string "I've swapped a POKéMON from your\n"
-	.string "BOX with a POKéMON in your party.\p"
-	.string "I just heard from PROF. OAK.\p"
-	.string "He said that POKéMON's energy is\n"
+	.string "I've swapped a Pokémon from your\n"
+	.string "Box with a Pokémon in your party.\p"
+	.string "I just heard from Prof. Oak.\p"
+	.string "He said that Pokémon's energy is\n"
 	.string "measured in HP.\p"
 	.string "If you're going to travel far away,\n"
-	.string "the smart TRAINER stocks up on\l"
-	.string "POTIONS at the POKéMON MART to\l"
-	.string "restore their POKéMON's HP.\p"
+	.string "the smart Trainer stocks up on\l"
+	.string "Potions at the Pokémon Mart to\l"
+	.string "restore their Pokémon's HP.\p"
 	.string "Make me proud, honey!\p"
 	.string "Take care!$"
 
@@ -432,7 +432,7 @@ EventScript_BothGameOver_Loop_10:
 	return
 
 EventScript_BothGameOver_Text_0:
-	.string "You have no more POKéMON that can\nbattle in your POKéMON PC.\pYou can either reset to the last\ntime you saved, or turn off\lNUZLOCKE MODE and NO FREE HEALS\land heal your party.$"
+	.string "You have no more Pokémon that can\nbattle in your Pokémon PC.\pYou can either reset to the last\ntime you saved, or turn off\lNuzlocke Mode and No Free Heals\land heal your party.$"
 
 EventScript_BothGameOver_Text_1:
 	.string "Would you like to reset to the\nlast save point?$"
@@ -444,10 +444,10 @@ EventScript_BothGameOver_Text_3:
 	.string "The game will now reset.$"
 
 EventScript_BothGameOver_Text_4:
-	.string "Would you like to turn off NUZLOCKE\nMODE and NO FREE HEALS and heal\lyour party?$"
+	.string "Would you like to turn off Nuzlocke\nMode and No Free Heals and heal\lyour party?$"
 
 EventScript_BothGameOver_Text_5:
-	.string "NUZLOCKE MODE and NO FREE HEALS\nhave been turned off.$"
+	.string "Nuzlocke Mode and No Free Heals\nhave been turned off.$"
 
 EventScript_BothGameOver_Mom::
 	lockall
@@ -532,7 +532,7 @@ EventScript_BothGameOver_Loop_Mom_10:
 	return
 
 EventScript_BothGameOver_Mom_Text_0:
-	.string "You have no more POKéMON that can\nbattle in your POKéMON PC.\pYou can either reset to the last\ntime you saved, or turn off\lNUZLOCKE MODE and NO FREE HEALS\land heal your party.$"
+	.string "You have no more Pokémon that can\nbattle in your Pokémon PC.\pYou can either reset to the last\ntime you saved, or turn off\lNUZLOCKE MODE and NO FREE HEALS\land heal your party.$"
 
 EventScript_BothGameOver_Mom_Text_1:
 	.string "Would you like to reset to the\nlast save point?$"
@@ -630,7 +630,7 @@ EventScript_NoPMCGameOver_Loop_Mom_10:
 	return
 
 EventScript_NoPMCGameOver_Mom_Text_0:
-	.string "You have no more POKéMON that can\nbattle in your POKéMON PC.\pYou can either reset to the last\ntime you saved, or turn off\lNO FREE HEALS and heal your party.$"
+	.string "You have no more Pokémon that can\nbattle in your Pokémon PC.\pYou can either reset to the last\ntime you saved, or turn off\lNo Free Heals and heal your party.$"
 
 EventScript_NoPMCGameOver_Mom_Text_1:
 	.string "Would you like to reset to the\nlast save point?$"
@@ -642,10 +642,10 @@ EventScript_NoPMCGameOver_Mom_Text_3:
 	.string "The game will now reset.$"
 
 EventScript_NoPMCGameOver_Mom_Text_4:
-	.string "Would you like to turn off\nNO FREE HEALS and heal your party?$"
+	.string "Would you like to turn off\nNo Free Heals and heal your party?$"
 
 EventScript_NoPMCGameOver_Mom_Text_5:
-	.string "NO FREE HEALS has been turned off.$"
+	.string "No Free Heals has been turned off.$"
 
 EventScript_NoPMCGameOver::
 	lockall
@@ -728,7 +728,7 @@ EventScript_NoPMCGameOver_Loop_10:
 	return
 
 EventScript_NoPMCGameOver_Text_0:
-	.string "You have no more POKéMON that can\nbattle in your POKéMON PC.\pYou can either reset to the last\ntime you saved, or turn off\lNO FREE HEALS and heal your party.$"
+	.string "You have no more Pokémon that can\nbattle in your Pokémon PC.\pYou can either reset to the last\ntime you saved, or turn off\lNo Free Heals and heal your party.$"
 
 EventScript_NoPMCGameOver_Text_1:
 	.string "Would you like to reset to the\nlast save point?$"
@@ -740,7 +740,7 @@ EventScript_NoPMCGameOver_Text_3:
 	.string "The game will now reset.$"
 
 EventScript_NoPMCGameOver_Text_4:
-	.string "Would you like to turn off\nNO FREE HEALS and heal your party?$"
+	.string "Would you like to turn off\nNo Free Heals and heal your party?$"
 
 EventScript_NoPMCGameOver_Text_5:
-	.string "NO FREE HEALS has been turned off.$"
+	.string "No Free Heals has been turned off.$"

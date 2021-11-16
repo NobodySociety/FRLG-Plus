@@ -4,32 +4,32 @@ Text_SwordsDanceTeach:: @ 8182F01
     .string "I'll get stronger and stronger.\p"
     .string "Yep, stronger and stronger…\p"
     .string "How would you like to learn a move\n"
-    .string "like that? It's SWORDS DANCE.$"
+    .string "like that? It's Swords Dance.$"
 
 Text_SwordsDanceDeclined:: @ 8182FC1
     .string "Well, that's fine, too.$"
 
 Text_SwordsDanceWhichMon:: @ 8182FD9
-    .string "All right, pick which POKéMON\n"
+    .string "All right, pick which Pokémon\n"
     .string "I should teach it to.$"
 
 Text_SwordsDanceReteach::
     .string "I'm still trying to get stronger\n"
     .string "and stronger…\p"
     .string "I've heard that vitamins strengthen\n"
-    .string "POKéMON, but they're so expensive!\p"
+    .string "Pokémon, but they're so expensive!\p"
     .string "So, I started charging ¥5000 to\n"
-    .string "teach other POKéMON SWORDS DANCE.$"
+    .string "teach other Pokémon Swords Dance.$"
 
 Text_SwordsDanceReteach2::
     .string "Would you like me to teach your\n"
-    .string "POKéMON the move SWORDS DANCE?$"
+    .string "Pokémon the move Swords Dance?$"
 
 Text_SwordsDanceNotEnoughMoney::
     .string "You don't have ¥5000?\p"
     .string "I'm sorry, but I need the money\n"
-    .string "to make my POKéMON strong.\p"
-    .string "I'll teach SWORDS DANCE to you\n"
+    .string "to make my Pokémon strong.\p"
+    .string "I'll teach Swords Dance to you\n"
     .string "when you come back with enough.$"
 
 Text_SwordsDanceTaught:: @ 818300D
@@ -37,12 +37,12 @@ Text_SwordsDanceTaught:: @ 818300D
     .string "stronger and stronger, eh?$"
 
 SevenIsland_Text_IslandSign:: @ 8183046
-    .string "SEVEN ISLAND\n"
+    .string "Seven Island\n"
     .string "Quest Island of Infinity$"
 
 SevenIsland_Text_IslandsMadeInSevenDays:: @ 818306C
-    .string "These islands are called the SEVII\n"
-    .string "ISLANDS because there are seven.\p"
+    .string "These islands are called the Sevii\n"
+    .string "Islands because there are seven.\p"
     .string "…Or at least that's what the young\n"
     .string "people believe.\p"
     .string "The truth is, these islands are so\n"
@@ -59,40 +59,40 @@ SevenIsland_Text_FadedWriting::
     .string "The writing is too faded to read…$"
 
 SevenIsland_Text_BattleHouseWithNoVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "…The sign-in sheet is empty.$"
 
 SevenIsland_Text_BattleHouseOneVisitor::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There is one person signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseTwoVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are two people signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseThreeVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are three people signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseFourVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are four people signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseFiveVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are five people signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseSixVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are six people signed in:\p"
     .string "{STR_VAR_1}.$"
 
 SevenIsland_Text_BattleHouseSevenVisitors::
-    .string "BATTLE HOUSE\n"
+    .string "Battle House\n"
     .string "There are seven people signed in:\p"
     .string "{STR_VAR_1}.$"

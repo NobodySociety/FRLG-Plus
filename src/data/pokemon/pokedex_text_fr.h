@@ -1,5 +1,5 @@
 const u8 gDummyPokedexText_FR[] = _(
-    "This is a newly discovered POKéMON. It is\n"
+    "This is a newly discovered Pokémon. It is\n"
     "currently under investigation. No detailed\n"
     "information is available at this time.");
 
@@ -7,7 +7,7 @@ const u8 gDummyPokedexTextUnused_FR[] = _("");
 
 const u8 gBulbasaurPokedexText_FR[] = _(
     "There is a plant seed on its back right\n"
-    "from the day this POKéMON is born.\n"
+    "from the day this Pokémon is born.\n"
     "The seed slowly grows larger.");
 
 const u8 gBulbasaurPokedexTextUnused_FR[] = _("");
@@ -41,7 +41,7 @@ const u8 gCharmeleonPokedexText_FR[] = _(
 const u8 gCharmeleonPokedexTextUnused_FR[] = _("");
 
 const u8 gCharizardPokedexText_FR[] = _(
-    "Its wings can carry this POKéMON close to\n"
+    "Its wings can carry this Pokémon close to\n"
     "an altitude of 4,600 feet. It blows out\n"
     "fire at very high temperatures.");
 
@@ -55,7 +55,7 @@ const u8 gSquirtlePokedexText_FR[] = _(
 const u8 gSquirtlePokedexTextUnused_FR[] = _("");
 
 const u8 gWartortlePokedexText_FR[] = _(
-    "This POKéMON is very popular as a pet.\n"
+    "This Pokémon is very popular as a pet.\n"
     "Its fur-covered tail is a symbol of its\n"
     "longevity.");
 
@@ -84,7 +84,7 @@ const u8 gMetapodPokedexTextUnused_FR[] = _("");
 
 const u8 gButterfreePokedexText_FR[] = _(
     "The wings are protected by rain-repellent\n"
-    "dust. As a result, this POKéMON can fly\n"
+    "dust. As a result, this Pokémon can fly\n"
     "about even in rain.");
 
 const u8 gButterfreePokedexTextUnused_FR[] = _("");
@@ -97,7 +97,7 @@ const u8 gWeedlePokedexText_FR[] = _(
 const u8 gWeedlePokedexTextUnused_FR[] = _("");
 
 const u8 gKakunaPokedexText_FR[] = _(
-    "This POKéMON is in a temporary stage\n"
+    "This Pokémon is in a temporary stage\n"
     "while making its body. It is almost\n"
     "completely unable to move on its own.");
 
@@ -119,7 +119,7 @@ const u8 gPidgeyPokedexTextUnused_FR[] = _("");
 
 const u8 gPidgeottoPokedexText_FR[] = _(
     "The claws on its feet are well developed.\n"
-    "It can carry prey such as an EXEGGCUTE\n"
+    "It can carry prey such as an Exeggcute\n"
     "to its nest over 60 miles away.");
 
 const u8 gPidgeottoPokedexTextUnused_FR[] = _("");
@@ -148,7 +148,7 @@ const u8 gRaticatePokedexTextUnused_FR[] = _("");
 const u8 gSpearowPokedexText_FR[] = _(
     "It busily flits around here and there.\n"
     "Even if it is frail, it can be a tough\n"
-    "foe that uses MIRROR MOVE.");
+    "foe that uses Mirror Move.");
 
 const u8 gSpearowPokedexTextUnused_FR[] = _("");
 
@@ -412,7 +412,7 @@ const u8 gGrowlithePokedexText_FR[] = _(
 const u8 gGrowlithePokedexTextUnused_FR[] = _("");
 
 const u8 gArcaninePokedexText_FR[] = _(
-    "A POKéMON that is described in Chinese\n"
+    "A Pokémon that is described in Chinese\n"
     "legends. It is said to race at an\n"
     "unbelievable speed.");
 
@@ -449,7 +449,7 @@ const u8 gAbraPokedexTextUnused_FR[] = _("");
 const u8 gKadabraPokedexText_FR[] = _(
     "It happened one morning - a boy with\n"
     "extrasensory powers awoke in bed\n"
-    "transformed into KADABRA.");
+    "transformed into Kadabra.");
 
 const u8 gKadabraPokedexTextUnused_FR[] = _("");
 
@@ -525,7 +525,7 @@ const u8 gGeodudePokedexTextUnused_FR[] = _("");
 
 const u8 gGravelerPokedexText_FR[] = _(
     "Be careful while hiking on mountain trails.\n"
-    "GRAVELER may come rolling down the path\n"
+    "Graveler may come rolling down the path\n"
     "without slowing.");
 
 const u8 gGravelerPokedexTextUnused_FR[] = _("");
@@ -559,22 +559,22 @@ const u8 gSlowpokePokedexText_FR[] = _(
 const u8 gSlowpokePokedexTextUnused_FR[] = _("");
 
 const u8 gSlowbroPokedexText_FR[] = _(
-    "When a SLOWPOKE went hunting in the sea,\n"
-    "its tail was bitten by a SHELLDER. That\n"
-    "made it evolve into SLOWBRO.");
+    "When a Slowpoke went hunting in the sea,\n"
+    "its tail was bitten by a Shellder. That\n"
+    "made it evolve into Slowbro.");
 
 const u8 gSlowbroPokedexTextUnused_FR[] = _("");
 
 const u8 gMagnemitePokedexText_FR[] = _(
     "It moves while constantly hovering.\n"
-    "It discharges THUNDER WAVE and so on\n"
+    "It discharges Thunder Wave and so on\n"
     "from the units at its sides.");
 
 const u8 gMagnemitePokedexTextUnused_FR[] = _("");
 
 const u8 gMagnetonPokedexText_FR[] = _(
     "A linked cluster formed of several\n"
-    "MAGNEMITE. It discharges powerful\n"
+    "Magnemite. It discharges powerful\n"
     "magnetic waves at high voltage.");
 
 const u8 gMagnetonPokedexTextUnused_FR[] = _("");
@@ -587,7 +587,7 @@ const u8 gFarfetchdPokedexText_FR[] = _(
 const u8 gFarfetchdPokedexTextUnused_FR[] = _("");
 
 const u8 gDoduoPokedexText_FR[] = _(
-    "A two-headed POKéMON that was discovered\n"
+    "A two-headed Pokémon that was discovered\n"
     "as a sudden mutation. It runs at a pace\n"
     "of over 60 miles per hour.");
 
@@ -616,7 +616,7 @@ const u8 gDewgongPokedexTextUnused_FR[] = _("");
 
 const u8 gGrimerPokedexText_FR[] = _(
     "Sludge exposed to X rays from the moon\n"
-    "transformed into GRIMER. It loves feeding\n"
+    "transformed into Grimer. It loves feeding\n"
     "on filthy things.");
 
 const u8 gGrimerPokedexTextUnused_FR[] = _("");
@@ -652,7 +652,7 @@ const u8 gGastlyPokedexTextUnused_FR[] = _("");
 const u8 gHaunterPokedexText_FR[] = _(
     "If you get the feeling of being watched\n"
     "in darkness when nobody is around,\n"
-    "HAUNTER is there.");
+    "Haunter is there.");
 
 const u8 gHaunterPokedexTextUnused_FR[] = _("");
 
@@ -700,8 +700,8 @@ const u8 gKinglerPokedexTextUnused_FR[] = _("");
 
 const u8 gVoltorbPokedexText_FR[] = _(
     "A life-form whose identity is unknown.\n"
-    "It is said to SCREECH or suddenly\n"
-    "SELFDESTRUCT.");
+    "It is said to Screech or suddenly\n"
+    "SelfDestruct.");
 
 const u8 gVoltorbPokedexTextUnused_FR[] = _("");
 
@@ -749,7 +749,7 @@ const u8 gHitmonleePokedexTextUnused_FR[] = _("");
 
 const u8 gHitmonchanPokedexText_FR[] = _(
     "The spirit of a pro boxer has infused this\n"
-    "POKéMON. It throws punches that are\n"
+    "Pokémon. It throws punches that are\n"
     "faster than a bullet train.");
 
 const u8 gHitmonchanPokedexTextUnused_FR[] = _("");
@@ -770,15 +770,15 @@ const u8 gKoffingPokedexTextUnused_FR[] = _("");
 
 const u8 gWeezingPokedexText_FR[] = _(
     "Very rarely, a sudden mutation can result\n"
-    "in two small KOFFING twins becoming\n"
-    "conjoined as a WEEZING.");
+    "in two small Koffing twins becoming\n"
+    "conjoined as a Weezing.");
 
 const u8 gWeezingPokedexTextUnused_FR[] = _("");
 
 const u8 gRhyhornPokedexText_FR[] = _(
-    "Strong, but not too bright, this POKéMON\n"
+    "Strong, but not too bright, this Pokémon\n"
     "can shatter even a skyscraper with its\n"
-    "charging TACKLES.");
+    "charging Tackles.");
 
 const u8 gRhyhornPokedexTextUnused_FR[] = _("");
 
@@ -797,7 +797,7 @@ const u8 gChanseyPokedexText_FR[] = _(
 const u8 gChanseyPokedexTextUnused_FR[] = _("");
 
 const u8 gTangelaPokedexText_FR[] = _(
-    "Blue plant vines cloak the POKéMON's\n"
+    "Blue plant vines cloak the Pokémon's\n"
     "identity in a tangled mass. It entangles\n"
     "anything that gets close.");
 
@@ -806,7 +806,7 @@ const u8 gTangelaPokedexTextUnused_FR[] = _("");
 const u8 gKangaskhanPokedexText_FR[] = _(
     "The female raises its offspring in a pouch\n"
     "on its belly. It is skilled at attacking\n"
-    "using COMET PUNCH.");
+    "using Comet Punch.");
 
 const u8 gKangaskhanPokedexTextUnused_FR[] = _("");
 
@@ -846,7 +846,7 @@ const u8 gStaryuPokedexText_FR[] = _(
 const u8 gStaryuPokedexTextUnused_FR[] = _("");
 
 const u8 gStarmiePokedexText_FR[] = _(
-    "This POKéMON has a geometric body.\n"
+    "This Pokémon has a geometric body.\n"
     "Because of its body, the locals suspect\n"
     "that it is an alien creature.");
 
@@ -895,7 +895,7 @@ const u8 gPinsirPokedexText_FR[] = _(
 const u8 gPinsirPokedexTextUnused_FR[] = _("");
 
 const u8 gTaurosPokedexText_FR[] = _(
-    "When it is about to TACKLE, it whips\n"
+    "When it is about to Tackle, it whips\n"
     "its body repeatedly with its three\n"
     "long tails.");
 
@@ -904,13 +904,13 @@ const u8 gTaurosPokedexTextUnused_FR[] = _("");
 const u8 gMagikarpPokedexText_FR[] = _(
     "It is virtually worthless in terms of both\n"
     "power and speed. It is the most weak and\n"
-    "pathetic POKéMON in the world.");
+    "pathetic Pokémon in the world.");
 
 const u8 gMagikarpPokedexTextUnused_FR[] = _("");
 
 const u8 gGyaradosPokedexText_FR[] = _(
     "It has an extremely aggressive nature.\n"
-    "The HYPER BEAM it shoots from its mouth\n"
+    "The Hyper Beam it shoots from its mouth\n"
     "totally incinerates all targets.");
 
 const u8 gGyaradosPokedexTextUnused_FR[] = _("");
@@ -930,7 +930,7 @@ const u8 gDittoPokedexText_FR[] = _(
 const u8 gDittoPokedexTextUnused_FR[] = _("");
 
 const u8 gEeveePokedexText_FR[] = _(
-    "An extremely rare POKéMON that may\n"
+    "An extremely rare Pokémon that may\n"
     "evolve in a number of different ways\n"
     "depending on stimuli.");
 
@@ -960,12 +960,12 @@ const u8 gFlareonPokedexTextUnused_FR[] = _("");
 const u8 gPorygonPokedexText_FR[] = _(
     "Using the most advanced technologies,\n"
     "scientists finally succeeded in making the\n"
-    "first artificial POKéMON.");
+    "first artificial Pokémon.");
 
 const u8 gPorygonPokedexTextUnused_FR[] = _("");
 
 const u8 gOmanytePokedexText_FR[] = _(
-    "A prehistoric POKéMON that lived in the\n"
+    "A prehistoric Pokémon that lived in the\n"
     "primordial sea, it swims by twisting its\n"
     "10 tentacles about.");
 
@@ -979,7 +979,7 @@ const u8 gOmastarPokedexText_FR[] = _(
 const u8 gOmastarPokedexTextUnused_FR[] = _("");
 
 const u8 gKabutoPokedexText_FR[] = _(
-    "This POKéMON was regenerated from the\n"
+    "This Pokémon was regenerated from the\n"
     "fossil of an ancient creature. It protects\n"
     "itself with a hard shell.");
 
@@ -1007,21 +1007,21 @@ const u8 gSnorlaxPokedexText_FR[] = _(
 const u8 gSnorlaxPokedexTextUnused_FR[] = _("");
 
 const u8 gArticunoPokedexText_FR[] = _(
-    "One of the legendary bird POKéMON.\n"
+    "One of the legendary bird Pokémon.\n"
     "With its long tail trailing behind, its\n"
     "flying form is magnificent.");
 
 const u8 gArticunoPokedexTextUnused_FR[] = _("");
 
 const u8 gZapdosPokedexText_FR[] = _(
-    "One of the legendary bird POKéMON.\n"
+    "One of the legendary bird Pokémon.\n"
     "While it is flying, it makes crackling and\n"
     "snapping sounds.");
 
 const u8 gZapdosPokedexTextUnused_FR[] = _("");
 
 const u8 gMoltresPokedexText_FR[] = _(
-    "One of the legendary bird POKéMON.\n"
+    "One of the legendary bird Pokémon.\n"
     "Those seeing it are overwhelmed by its\n"
     "orange wings that seem to be on fire.");
 
@@ -1049,14 +1049,14 @@ const u8 gDragonitePokedexText_FR[] = _(
 const u8 gDragonitePokedexTextUnused_FR[] = _("");
 
 const u8 gMewtwoPokedexText_FR[] = _(
-    "A POKéMON whose genetic code was\n"
+    "A Pokémon whose genetic code was\n"
     "repeatedly recombined for research.\n"
     "It turned vicious as a result.");
 
 const u8 gMewtwoPokedexTextUnused_FR[] = _("");
 
 const u8 gMewPokedexText_FR[] = _(
-    "A POKéMON of South America that was\n"
+    "A Pokémon of South America that was\n"
     "thought to have been extinct. It is very\n"
     "intelligent and learns any move.");
 
@@ -1078,7 +1078,7 @@ const u8 gBayleefPokedexText_FR[] = _(
 const u8 gBayleefPokedexTextUnused_FR[] = _("");
 
 const u8 gMeganiumPokedexText_FR[] = _(
-    "MEGANIUM's breath has the power to revive\n"
+    "Meganium's breath has the power to revive\n"
     "dead grass and plants. It can make them\n"
     "healthy again.");
 
@@ -1092,7 +1092,7 @@ const u8 gCyndaquilPokedexText_FR[] = _(
 const u8 gCyndaquilPokedexTextUnused_FR[] = _("");
 
 const u8 gQuilavaPokedexText_FR[] = _(
-    "This POKéMON is fully covered by\n"
+    "This Pokémon is fully covered by\n"
     "nonflammable fur. It can withstand any\n"
     "kind of fire attack.");
 
@@ -1136,7 +1136,7 @@ const u8 gSentretPokedexTextUnused_FR[] = _("");
 const u8 gFurretPokedexText_FR[] = _(
     "There is no telling where its tail begins.\n"
     "Despite its short legs, it is quick at\n"
-    "hunting RATTATA.");
+    "hunting Rattata.");
 
 const u8 gFurretPokedexTextUnused_FR[] = _("");
 
@@ -1156,7 +1156,7 @@ const u8 gNoctowlPokedexTextUnused_FR[] = _("");
 
 const u8 gLedybaPokedexText_FR[] = _(
     "When the weather turns cold, numerous\n"
-    "LEDYBA gather from everywhere to cluster\n"
+    "Ledyba gather from everywhere to cluster\n"
     "and keep each other warm.");
 
 const u8 gLedybaPokedexTextUnused_FR[] = _("");
@@ -1212,7 +1212,7 @@ const u8 gPichuPokedexTextUnused_FR[] = _("");
 
 const u8 gCleffaPokedexText_FR[] = _(
     "When numerous meteors illuminate the\n"
-    "night sky, sightings of CLEFFA strangely\n"
+    "night sky, sightings of Cleffa strangely\n"
     "increase.");
 
 const u8 gCleffaPokedexTextUnused_FR[] = _("");
@@ -1226,7 +1226,7 @@ const u8 gIgglybuffPokedexTextUnused_FR[] = _("");
 
 const u8 gTogepiPokedexText_FR[] = _(
     "A proverb claims that happiness will come\n"
-    "to anyone who can make a sleeping TOGEPI\n"
+    "to anyone who can make a sleeping Togepi\n"
     "stand up.");
 
 const u8 gTogepiPokedexTextUnused_FR[] = _("");
@@ -1456,7 +1456,7 @@ const u8 gGligarPokedexText_FR[] = _(
 const u8 gGligarPokedexTextUnused_FR[] = _("");
 
 const u8 gSteelixPokedexText_FR[] = _(
-    "It is said that if an ONIX lives for over\n"
+    "It is said that if an Onix lives for over\n"
     "100 years, its composition changes to\n"
     "become diamond-like.");
 
@@ -1472,7 +1472,7 @@ const u8 gSnubbullPokedexTextUnused_FR[] = _("");
 const u8 gGranbullPokedexText_FR[] = _(
     "Because its fangs are too heavy, it\n"
     "always keeps its head tilted down.\n"
-    "However, its BITE is powerful.");
+    "However, its Bite is powerful.");
 
 const u8 gGranbullPokedexTextUnused_FR[] = _("");
 
@@ -1491,7 +1491,7 @@ const u8 gScizorPokedexText_FR[] = _(
 const u8 gScizorPokedexTextUnused_FR[] = _("");
 
 const u8 gShucklePokedexText_FR[] = _(
-    "It stores BERRIES inside its shell.\n"
+    "It stores Berries inside its shell.\n"
     "To avoid attacks, it hides beneath rocks\n"
     "and remains completely still.");
 
@@ -1505,7 +1505,7 @@ const u8 gHeracrossPokedexText_FR[] = _(
 const u8 gHeracrossPokedexTextUnused_FR[] = _("");
 
 const u8 gSneaselPokedexText_FR[] = _(
-    "Vicious in nature, it drives PIDGEY from\n"
+    "Vicious in nature, it drives Pidgey from\n"
     "their nests and feasts on the eggs that\n"
     "are left behind.");
 
@@ -1556,13 +1556,13 @@ const u8 gPiloswinePokedexTextUnused_FR[] = _("");
 const u8 gCorsolaPokedexText_FR[] = _(
     "In a south sea nation, the people live in\n"
     "communities that are built on groups of\n"
-    "these POKéMON.");
+    "these Pokémon.");
 
 const u8 gCorsolaPokedexTextUnused_FR[] = _("");
 
 const u8 gRemoraidPokedexText_FR[] = _(
     "Using its dorsal fin as a suction pad, it\n"
-    "clings to a MANTINE's underside to\n"
+    "clings to a Mantine's underside to\n"
     "scavenge for leftovers.");
 
 const u8 gRemoraidPokedexTextUnused_FR[] = _("");
@@ -1570,7 +1570,7 @@ const u8 gRemoraidPokedexTextUnused_FR[] = _("");
 const u8 gOctilleryPokedexText_FR[] = _(
     "It instinctively sneaks into rocky holes.\n"
     "If it gets sleepy, it steals the nest of a\n"
-    "fellow OCTILLERY.");
+    "fellow Octillery.");
 
 const u8 gOctilleryPokedexTextUnused_FR[] = _("");
 
@@ -1604,7 +1604,7 @@ const u8 gHoundourPokedexTextUnused_FR[] = _("");
 
 const u8 gHoundoomPokedexText_FR[] = _(
     "Upon hearing its eerie howls, other\n"
-    "POKéMON get the shivers and head straight\n"
+    "Pokémon get the shivers and head straight\n"
     "back to their nests.");
 
 const u8 gHoundoomPokedexTextUnused_FR[] = _("");
@@ -1674,7 +1674,7 @@ const u8 gSmoochumPokedexTextUnused_FR[] = _("");
 
 const u8 gElekidPokedexText_FR[] = _(
     "Even in the most vicious storm, this\n"
-    "POKéMON plays happily if thunder rumbles\n"
+    "Pokémon plays happily if thunder rumbles\n"
     "in the sky.");
 
 const u8 gElekidPokedexTextUnused_FR[] = _("");
@@ -1695,27 +1695,27 @@ const u8 gMiltankPokedexTextUnused_FR[] = _("");
 
 const u8 gBlisseyPokedexText_FR[] = _(
     "It has a very compassionate nature. If it\n"
-    "sees a sick POKéMON, it will nurse the\n"
+    "sees a sick Pokémon, it will nurse the\n"
     "sufferer back to health.");
 
 const u8 gBlisseyPokedexTextUnused_FR[] = _("");
 
 const u8 gRaikouPokedexText_FR[] = _(
-    "This POKéMON races across the\n"
+    "This Pokémon races across the\n"
     "land while barking a cry that sounds\n"
     "like crashing thunder.");
 
 const u8 gRaikouPokedexTextUnused_FR[] = _("");
 
 const u8 gEnteiPokedexText_FR[] = _(
-    "A POKéMON that races across the land.\n"
+    "A Pokémon that races across the land.\n"
     "It is said that one is born every time a\n"
     "new volcano appears.");
 
 const u8 gEnteiPokedexTextUnused_FR[] = _("");
 
 const u8 gSuicunePokedexText_FR[] = _(
-    "This POKéMON races across the land.\n"
+    "This Pokémon races across the land.\n"
     "It is said that north winds will somehow\n"
     "blow whenever it appears.");
 
@@ -1836,13 +1836,13 @@ const u8 gPoochyenaPokedexTextUnused_FR[] = _("");
 
 const u8 gMightyenaPokedexText_FR[] = _(
     "It will always obey the commands of a\n"
-    "skilled TRAINER. Its behavior arises from\n"
+    "skilled Trainer. Its behavior arises from\n"
     "its living in packs in ancient times.");
 
 const u8 gMightyenaPokedexTextUnused_FR[] = _("");
 
 const u8 gZigzagoonPokedexText_FR[] = _(
-    "A POKéMON with abundant curiosity.\n"
+    "A Pokémon with abundant curiosity.\n"
     "It shows an interest in everything, so it\n"
     "always zigs and zags.");
 
@@ -1906,7 +1906,7 @@ const u8 gLombrePokedexTextUnused_FR[] = _("");
 
 const u8 gLudicoloPokedexText_FR[] = _(
     "The rhythm of bright, festive music\n"
-    "activates LUDICOLO's cells, making it more\n"
+    "activates Ludicolo's cells, making it more\n"
     "powerful.");
 
 const u8 gLudicoloPokedexTextUnused_FR[] = _("");
@@ -1914,19 +1914,19 @@ const u8 gLudicoloPokedexTextUnused_FR[] = _("");
 const u8 gSeedotPokedexText_FR[] = _(
     "If it remains still, it becomes impossible\n"
     "to distinguish from real nuts. It delights\n"
-    "in surprising foraging PIDGEY.");
+    "in surprising foraging Pidgey.");
 
 const u8 gSeedotPokedexTextUnused_FR[] = _("");
 
 const u8 gNuzleafPokedexText_FR[] = _(
     "They live in holes bored in large trees.\n"
-    "The sound of NUZLEAF's grass flute fills\n"
+    "The sound of Nuzleaf's grass flute fills\n"
     "listeners with dread.");
 
 const u8 gNuzleafPokedexTextUnused_FR[] = _("");
 
 const u8 gShiftryPokedexText_FR[] = _(
-    "A POKéMON that was feared as a forest\n"
+    "A Pokémon that was feared as a forest\n"
     "guardian. It can read the foe's mind and\n"
     "take preemptive action.");
 
@@ -1955,20 +1955,20 @@ const u8 gWingullPokedexTextUnused_FR[] = _("");
 
 const u8 gPelipperPokedexText_FR[] = _(
     "It is a flying transporter that carries\n"
-    "small POKéMON in its beak. It bobs on the\n"
+    "small Pokémon in its beak. It bobs on the\n"
     "waves to rest its wings.");
 
 const u8 gPelipperPokedexTextUnused_FR[] = _("");
 
 const u8 gRaltsPokedexText_FR[] = _(
     "It is highly attuned to the emotions of\n"
-    "people and POKéMON. It hides if it senses\n"
+    "people and Pokémon. It hides if it senses\n"
     "hostility.");
 
 const u8 gRaltsPokedexTextUnused_FR[] = _("");
 
 const u8 gKirliaPokedexText_FR[] = _(
-    "The cheerful spirit of its TRAINER gives\n"
+    "The cheerful spirit of its Trainer gives\n"
     "it energy for its psychokinetic power.\n"
     "It spins and dances when happy.");
 
@@ -1977,7 +1977,7 @@ const u8 gKirliaPokedexTextUnused_FR[] = _("");
 const u8 gGardevoirPokedexText_FR[] = _(
     "It has the power to predict the future.\n"
     "Its power peaks when it is protecting its\n"
-    "TRAINER.");
+    "Trainer.");
 
 const u8 gGardevoirPokedexTextUnused_FR[] = _("");
 
@@ -2024,7 +2024,7 @@ const u8 gVigorothPokedexText_FR[] = _(
 const u8 gVigorothPokedexTextUnused_FR[] = _("");
 
 const u8 gSlakingPokedexText_FR[] = _(
-    "It is the world's most slothful POKéMON.\n"
+    "It is the world's most slothful Pokémon.\n"
     "However, it can exert horrifying power by\n"
     "releasing pent-up energy all at once.");
 
@@ -2038,15 +2038,15 @@ const u8 gNincadaPokedexText_FR[] = _(
 const u8 gNincadaPokedexTextUnused_FR[] = _("");
 
 const u8 gNinjaskPokedexText_FR[] = _(
-    "This POKéMON is so quick, it is said to\n"
+    "This Pokémon is so quick, it is said to\n"
     "be able to avoid any attack. It loves to\n"
     "feed on tree sap.");
 
 const u8 gNinjaskPokedexTextUnused_FR[] = _("");
 
 const u8 gShedinjaPokedexText_FR[] = _(
-    "A most peculiar POKéMON that somehow\n"
-    "appears in a POKé BALL when a NINCADA\n"
+    "A most peculiar Pokémon that somehow\n"
+    "appears in a Poké Ball when a Nincada\n"
     "evolves.");
 
 const u8 gShedinjaPokedexTextUnused_FR[] = _("");
@@ -2074,7 +2074,7 @@ const u8 gExploudPokedexTextUnused_FR[] = _("");
 
 const u8 gMakuhitaPokedexText_FR[] = _(
     "It grows stronger by enduring harsh\n"
-    "training. It is a gutsy POKéMON that can\n"
+    "training. It is a gutsy Pokémon that can\n"
     "withstand any attack.");
 
 const u8 gMakuhitaPokedexTextUnused_FR[] = _("");
@@ -2095,7 +2095,7 @@ const u8 gAzurillPokedexTextUnused_FR[] = _("");
 
 const u8 gNosepassPokedexText_FR[] = _(
     "Its magnetic nose consistently faces\n"
-    "north. Travelers check NOSEPASS to get\n"
+    "north. Travelers check Nosepass to get\n"
     "their bearings.");
 
 const u8 gNosepassPokedexTextUnused_FR[] = _("");
@@ -2109,7 +2109,7 @@ const u8 gSkittyPokedexTextUnused_FR[] = _("");
 
 const u8 gDelcattyPokedexText_FR[] = _(
     "The favorite of trend-conscious\n"
-    "female TRAINERS, they are used in\n"
+    "female Trainers, they are used in\n"
     "competition for their style and fur.");
 
 const u8 gDelcattyPokedexTextUnused_FR[] = _("");
@@ -2199,7 +2199,7 @@ const u8 gVolbeatPokedexText_FR[] = _(
 const u8 gVolbeatPokedexTextUnused_FR[] = _("");
 
 const u8 gIllumisePokedexText_FR[] = _(
-    "It guides VOLBEAT to draw signs in night\n"
+    "It guides Volbeat to draw signs in night\n"
     "skies. There are scientists that study the\n"
     "patterns it creates.");
 
@@ -2208,7 +2208,7 @@ const u8 gIllumisePokedexTextUnused_FR[] = _("");
 const u8 gRoseliaPokedexText_FR[] = _(
     "Its flowers give off a relaxing fragrance.\n"
     "The stronger its aroma, the healthier\n"
-    "the ROSELIA is.");
+    "the Roselia is.");
 
 const u8 gRoseliaPokedexTextUnused_FR[] = _("");
 
@@ -2248,7 +2248,7 @@ const u8 gWailmerPokedexText_FR[] = _(
 const u8 gWailmerPokedexTextUnused_FR[] = _("");
 
 const u8 gWailordPokedexText_FR[] = _(
-    "It is among the largest of all POKéMON.\n"
+    "It is among the largest of all Pokémon.\n"
     "It herds prey in a pack then swallows the\n"
     "massed prey in one gulp.");
 
@@ -2277,7 +2277,7 @@ const u8 gTorkoalPokedexTextUnused_FR[] = _("");
 
 const u8 gSpoinkPokedexText_FR[] = _(
     "It apparently dies if it stops bouncing\n"
-    "about. It carries a pearl from CLAMPERL\n"
+    "about. It carries a pearl from Clamperl\n"
     "on its head.");
 
 const u8 gSpoinkPokedexTextUnused_FR[] = _("");
@@ -2290,7 +2290,7 @@ const u8 gGrumpigPokedexText_FR[] = _(
 const u8 gGrumpigPokedexTextUnused_FR[] = _("");
 
 const u8 gSpindaPokedexText_FR[] = _(
-    "No two SPINDA are said to have identical\n"
+    "No two Spinda are said to have identical\n"
     "patterns. It confuses foes with its\n"
     "stumbling motions.");
 
@@ -2341,12 +2341,12 @@ const u8 gSwabluPokedexTextUnused_FR[] = _("");
 const u8 gAltariaPokedexText_FR[] = _(
     "If you hear a beautiful melody trilling\n"
     "deep among mountains far from people,\n"
-    "it is ALTARIA's humming.");
+    "it is Altaria's humming.");
 
 const u8 gAltariaPokedexTextUnused_FR[] = _("");
 
 const u8 gZangoosePokedexText_FR[] = _(
-    "If it comes across a SEVIPER, its fur\n"
+    "If it comes across a Seviper, its fur\n"
     "bristles and it assumes its battle pose.\n"
     "Its sharp claws are its best weapon.");
 
@@ -2383,7 +2383,7 @@ const u8 gBarboachPokedexTextUnused_FR[] = _("");
 const u8 gWhiscashPokedexText_FR[] = _(
     "It makes its nest at the bottom of \n"
     "swamps. It will eat anything - if it is\n"
-    "alive, WHISCASH will eat it.");
+    "alive, Whiscash will eat it.");
 
 const u8 gWhiscashPokedexTextUnused_FR[] = _("");
 
@@ -2430,7 +2430,7 @@ const u8 gCradilyPokedexText_FR[] = _(
 const u8 gCradilyPokedexTextUnused_FR[] = _("");
 
 const u8 gAnorithPokedexText_FR[] = _(
-    "It is a kind of POKéMON progenitor.\n"
+    "It is a kind of Pokémon progenitor.\n"
     "It uses its extending claws to catch prey\n"
     "hiding among rocks on the seafloor.");
 
@@ -2451,7 +2451,7 @@ const u8 gFeebasPokedexText_FR[] = _(
 const u8 gFeebasPokedexTextUnused_FR[] = _("");
 
 const u8 gMiloticPokedexText_FR[] = _(
-    "MILOTIC is breathtakingly beautiful.\n"
+    "Milotic is breathtakingly beautiful.\n"
     "Those that see it are said to forget their\n"
     "combative spirits.");
 
@@ -2480,7 +2480,7 @@ const u8 gShuppetPokedexTextUnused_FR[] = _("");
 
 const u8 gBanettePokedexText_FR[] = _(
     "Strong feelings of hatred turned a puppet\n"
-    "into a POKéMON. If it opens its mouth,\n"
+    "into a Pokémon. If it opens its mouth,\n"
     "its cursed energy escapes.");
 
 const u8 gBanettePokedexTextUnused_FR[] = _("");
@@ -2529,7 +2529,7 @@ const u8 gWynautPokedexTextUnused_FR[] = _("");
 
 const u8 gSnoruntPokedexText_FR[] = _(
     "It is said that a home visited by a\n"
-    "SNORUNT will prosper. It can withstand\n"
+    "Snorunt will prosper. It can withstand\n"
     "cold of minus 150 degrees Fahrenheit.");
 
 const u8 gSnoruntPokedexTextUnused_FR[] = _("");
@@ -2551,7 +2551,7 @@ const u8 gSphealPokedexTextUnused_FR[] = _("");
 const u8 gSealeoPokedexText_FR[] = _(
     "It touches new things with its nose to\n"
     "test for smell and feel. It plays by\n"
-    "spinning SPHEAL on its nose.");
+    "spinning Spheal on its nose.");
 
 const u8 gSealeoPokedexTextUnused_FR[] = _("");
 
@@ -2592,7 +2592,7 @@ const u8 gRelicanthPokedexTextUnused_FR[] = _("");
 
 const u8 gLuvdiscPokedexText_FR[] = _(
     "During the spawning season, countless\n"
-    "LUVDISC congregate at coral reefs,\n"
+    "Luvdisc congregate at coral reefs,\n"
     "turning the waters pink.");
 
 const u8 gLuvdiscPokedexTextUnused_FR[] = _("");
@@ -2633,7 +2633,7 @@ const u8 gMetangPokedexText_FR[] = _(
 const u8 gMetangPokedexTextUnused_FR[] = _("");
 
 const u8 gMetagrossPokedexText_FR[] = _(
-    "It is formed by two METANG fusing.\n"
+    "It is formed by two Metang fusing.\n"
     "Its four brains are said to be superior\n"
     "to a supercomputer.");
 
@@ -2675,16 +2675,16 @@ const u8 gLatiosPokedexText_FR[] = _(
 const u8 gLatiosPokedexTextUnused_FR[] = _("");
 
 const u8 gKyogrePokedexText_FR[] = _(
-    "This POKéMON is said to have\n"
+    "This Pokémon is said to have\n"
     "expanded the sea by bringing heavy rains.\n"
     "It has the power to control water.");
 
 const u8 gKyogrePokedexTextUnused_FR[] = _("");
 
 const u8 gGroudonPokedexText_FR[] = _(
-    "This legendary POKéMON is said to\n"
+    "This legendary Pokémon is said to\n"
     "represent the land. It went to sleep after\n"
-    "dueling KYOGRE.");
+    "dueling Kyogre.");
 
 const u8 gGroudonPokedexTextUnused_FR[] = _("");
 
@@ -2703,7 +2703,7 @@ const u8 gJirachiPokedexText_FR[] = _(
 const u8 gJirachiPokedexTextUnused_FR[] = _("");
 
 const u8 gDeoxysPokedexText_FR[] = _(
-    "This DEOXYS has transformed into its\n"
+    "This Deoxys has transformed into its\n"
     "aggressive guise. It can fool enemies by\n"
     "altering its appearance.");
 

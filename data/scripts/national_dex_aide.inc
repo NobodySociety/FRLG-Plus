@@ -124,16 +124,16 @@ NationalDexAideEvent_Movement_BackStep:
 	step_end
 
 NationalDexAideEvent_Text_0:
-	.string "{PLAYER}! Hi!\nI've been looking for you!\pRemember me?\nI'm one of PROF. OAK'S AIDES.\pPROF. OAK has improved the\nPOKéDEX again and I'm supposed\lto upgrade yours.\pCan I see your POKéDEX?$"
+	.string "{PLAYER}! Hi!\nI've been looking for you!\pRemember me?\nI'm one of Prof. Oak's Aides.\pProf. Oak has improved the\nPokédex again and I'm supposed\lto upgrade yours.\pCan I see your Pokédex?$"
 
 NationalDexAideEvent_Text_1:
-	.string "The AIDE took your POKéDEX\nunit.$"
+	.string "The Aide took your Pokédex\nunit.$"
 
 NationalDexAideEvent_Text_2:
 	.string "… … …  … … …\p… … …  … … …$"
 
 NationalDexAideEvent_Text_3:
-	.string "…And that's done!\pNow this unit can record data on\na lot more POKéMON.\pHere you go!$"
+	.string "…And that's done!\pNow this unit can record data on\na lot more Pokémon.\pHere you go!$"
 
 NationalDexAideEvent_Text_4:
-	.string "Keep catching POKéMON to fill up\nyour improved POKéDEX!\pI better get back to the LAB.\nSee you, {PLAYER}!$"
+	.string "Keep catching Pokémon to fill up\nyour improved Pokédex!\pI better get back to the Lab.\nSee you, {PLAYER}!$"

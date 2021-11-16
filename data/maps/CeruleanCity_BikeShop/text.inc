@@ -1,7 +1,7 @@
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop:: @ 8192755
     .string "Hi!\n"
-    .string "Welcome to our BIKE SHOP.\p"
-    .string "Have we got just the BIKE for\n"
+    .string "Welcome to our Bike Shop.\p"
+    .string "Have we got just the Bike for\n"
     .string "you!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt:: @ 8192796
@@ -10,34 +10,34 @@ CeruleanCity_BikeShop_Text_SorryYouCantAffordIt:: @ 8192796
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo:: @ 81927B2
     .string "Oh, that's…\p"
-    .string "A BIKE VOUCHER!\p"
+    .string "A Bike Voucher!\p"
     .string "Okay!\n"
     .string "Here you go!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle:: @ 81927E1
     .string "{PLAYER} exchanged the\n"
-    .string "BIKE VOUCHER for a BICYCLE.$"
+    .string "Bike Voucher for a Bicycle.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain:: @ 819280E
     .string "Thank you!\n"
     .string "Come back again sometime!$"
 
 CeruleanCity_BikeShop_Text_ExplainBicycleGears::
-    .string "This BICYCLE has two gears.\n"
+    .string "This Bicycle has two gears.\n"
     .string "Press the B Button to switch them\l"
     .string "for more control of your speed!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle:: @ 8192833
-    .string "How do you like your new BICYCLE?\n"
+    .string "How do you like your new Bicycle?\n"
     .string "Do you like how it rides?\p"
-    .string "You can take it out on CYCLING\n"
-    .string "ROAD and even into caves!\p"
+    .string "You can take it out on Cycling\n"
+    .string "Road and even into caves!\p"
     .string "You can switch gears for more\n"
     .string "speed too with the B Button!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle:: @ 81928A8
     .string "You better make room for your\n"
-    .string "BICYCLE!$"
+    .string "Bicycle!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe:: @ 81928CF
     .string "A plain city bike is good enough\n"
@@ -51,8 +51,8 @@ CeruleanCity_BikeShop_Text_BikesCoolButExpensive:: @ 8192937
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool:: @ 8192968
     .string "Wow.\n"
-    .string "Your BIKE is really cool!$"
+    .string "Your Bike is really cool!$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle:: @ 81929AD
-    .string "A shiny new BICYCLE!$"
+    .string "A shiny new Bicycle!$"
 

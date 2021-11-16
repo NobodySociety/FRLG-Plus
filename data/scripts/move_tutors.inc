@@ -1227,35 +1227,35 @@ EventScript_FuryCutterDeclined2:: @ 81C48D2
 MoveTutor_Text_FuryCutterTeach: @ 82C7174
 	.string "There's a move that gets stronger\n"
 	.string "when you keep using it in a row.\p"
-	.string "It's a BUG-type move, and it is\n"
+	.string "It's a Bug-type move, and it is\n"
 	.string "wickedly cool.\p"
-	.string "It's called FURY CUTTER.\n"
-	.string "Want me to teach it to a POKéMON?$"
+	.string "It's called Fury Cutter.\n"
+	.string "Want me to teach it to a Pokémon?$"
 
 MoveTutor_Text_FuryCutterDeclined: @ 82C7221
 	.string "We're not on the same wavelength.$"
 
 MoveTutor_Text_FuryCutterWhichMon: @ 82C7243
 	.string "Yay!\n"
-	.string "Show me the POKéMON I should teach.$"
+	.string "Show me the Pokémon I should teach.$"
 
 MoveTutor_Text_FuryCutterTaught: @ 82C726E
 	.string "I get a thrill watching to see if\n"
 	.string "the move keeps hitting in succession!$"
 
 Text_FuryCutterReteach::
-	.string "You want your POKéMON to learn\n"
-	.string "FURY CUTTER over and over so they\l"
+	.string "You want your Pokémon to learn\n"
+	.string "Fury Cutter over and over so they\l"
 	.string "can keep using it over and over?\p"
-	.string "I can teach you FURY CUTTER\n"
+	.string "I can teach you Fury Cutter\n"
 	.string "again if you give me ¥5000.$"
 
 Text_FuryCutterReteach2::
-    .string "Want me to teach FURY CUTTER\n"
-    .string "to a POKéMON?$"
+    .string "Want me to teach Fury Cutter\n"
+    .string "to a Pokémon?$"
 
 Text_FuryCutterNotEnoughMoney::
-	.string "I can't teach FURY CUTTER over\n"
+	.string "I can't teach Fury Cutter over\n"
 	.string "and over if you can't pay!\p"
 	.string "Come back with ¥5000 next\n"
 	.string "time and I'll teach it again.$"
@@ -1331,9 +1331,9 @@ MoveTutor_Text_RolloutTeach: @ 82C6FDB
 	.string "without changing direction?\p"
 	.string "I might even be able to roll\n"
 	.string "that way.\p"
-	.string "Do you think your POKéMON will\n"
+	.string "Do you think your Pokémon will\n"
 	.string "want to roll, too?\p"
-	.string "I can teach one the move ROLLOUT\n"
+	.string "I can teach one the move Rollout\n"
 	.string "if you'd like.$"
 
 MoveTutor_Text_RolloutDeclined: @ 82C70C4
@@ -1342,7 +1342,7 @@ MoveTutor_Text_RolloutDeclined: @ 82C70C4
 
 MoveTutor_Text_RolloutWhichMon: @ 82C70F3
 	.string "Ehehe, sure thing! It'd be great if\n"
-	.string "the POKéMON looked like me.$"
+	.string "the Pokémon looked like me.$"
 
 MoveTutor_Text_RolloutTaught: @ 82C7133
 	.string "Rolling around in the grass makes me\n"
@@ -1350,24 +1350,24 @@ MoveTutor_Text_RolloutTaught: @ 82C7133
 
 Text_RolloutReteach::
 	.string "I wonder if I could roll down\n"
-	.string "NUGGET BRIDGE to CERULEAN…\p"
+	.string "Nugget Bridge to Cerulean…\p"
 	.string "Oh, do you want me to teach\n"
-	.string "ROLLOUT to your POKéMON again?\p"
+	.string "Rollout to your Pokémon again?\p"
 	.string "I can do it, but I have to charge\n"
 	.string "¥5000 for my services!$"
 
 Text_RolloutReteach2::
-    .string "Want me to teach ROLLOUT\n"
-    .string "to one of your POKéMON?$"
+    .string "Want me to teach Rollout\n"
+    .string "to one of your Pokémon?$"
 
 Text_RolloutNotEnoughMoney::
 	.string "Whoa!\n"
 	.string "Hold on a minute!\p"
-	.string "How can I teach you ROLLOUT if\n"
+	.string "How can I teach you Rollout if\n"
 	.string "you don't have a bankroll to pay\l"
 	.string "me with?\p"
 	.string "Come back to me with ¥5000 and\n"
-	.string "we'll get your POKéMON rolling!$"
+	.string "we'll get your Pokémon rolling!$"
 
 SaffronCity_EventScript_DynamicPunchTutor:: @ 82C81EE
 	lock
@@ -1443,15 +1443,15 @@ EventScript_DynamicPunchDeclined2:: @ 81C48D2
 MoveTutor_Text_DynamicPunchTeach: @ 82C79A6
 	.string "I can't do this anymore!\p"
 	.string "It's utterly hopeless!\p"
-	.string "I'm a FIGHTING-type TRAINER,\n"
-	.string "so I can't win at the SAFFRON GYM\l"
+	.string "I'm a Fighting-type Trainer,\n"
+	.string "so I can't win at the Saffron Gym\l"
 	.string "no matter how hard I try!\p"
 	.string "Argh! Punch! Punch! Punch!\n"
 	.string "Punch! Punch! Punch!\p"
 	.string "What, don't look at me that way!\n"
 	.string "I'm only hitting the wall!\p"
 	.string "Or do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "Pokémon DynamicPunch?$"
 
 MoveTutor_Text_DynamicPunchDeclined: @ 82C7AD4
 	.string "Darn! You're even making fun of me?\n"
@@ -1459,29 +1459,29 @@ MoveTutor_Text_DynamicPunchDeclined: @ 82C7AD4
 
 MoveTutor_Text_DynamicPunchWhichMon: @ 82C7B0D
 	.string "What? You do? You're a good person!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Which Pokémon should I teach?$"
 
 MoveTutor_Text_DynamicPunchTaught: @ 82C7B4F
-	.string "I want you to win at the SAFFRON\n"
-	.string "GYM using that DYNAMICPUNCH!$"
+	.string "I want you to win at the Saffron\n"
+	.string "Gym using that DynamicPunch!$"
 
 Text_DynamicPunchReteach::
 	.string "Argh! Punch! Punch! Punch!\n"
 	.string "Punch! Punch! Punch!\p"
 	.string "I'm still so frustrated about\n"
-	.string "losing in the GYM!\p"
+	.string "losing in the Gyn!\p"
 	.string "Do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH again?\p"
+	.string "Pokémon DynamicPunch again?\p"
 	.string "I'll do it for ¥5000!\n"
-	.string "I need to buy REVIVES!$"
+	.string "I need to buy Revives!$"
 
 Text_DynamicPunchReteach2::
     .string "Do you want me to teach your\n"
-	.string "POKéMON DYNAMICPUNCH?$"
+	.string "Pokémon DynamicPunch?$"
 
 Text_DynamicPunchNotEnoughMoney::
 	.string "Are you mocking me for needing\n"
-	.string "money for POKéMON medicine?\p"
+	.string "money for Pokémon medicine?\p"
 	.string "Using items in battle is the only\n"
 	.string "possible way I can win here!\p"
 	.string "Let me know when you have ¥5000.\n"
@@ -1568,13 +1568,13 @@ MoveTutor_Text_SleepTalkTeach: @ 82C7637
 	.string "Oh!\n"
 	.string "Was I talking in my sleep?\p"
 	.string "I was dreaming that I wanted\n"
-	.string "my POKéMON to use a move,\l"
+	.string "my Pokémon to use a move,\l"
 	.string "but it was asleep!\p"
-	.string "I can teach your POKéMON how\n"
-	.string "to SLEEP TALK so they can attack\l"
+	.string "I can teach your Pokémon how\n"
+	.string "to Sleep Talk so they can attack\l"
 	.string "while sleeping if you want.\p"
 	.string "Are you interested in teaching\n"
-	.string "your POKéMON SLEEP TALK?$"
+	.string "your Pokémon Sleep Talk?$"
 
 MoveTutor_Text_SleepTalkDeclined: @ 82C76E2
 	.string "Oh, fine, fine.\p"
@@ -1583,12 +1583,12 @@ MoveTutor_Text_SleepTalkDeclined: @ 82C76E2
 
 MoveTutor_Text_SleepTalkWhichMon: @ 82C7721
 	.string "Okay!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "Which Pokémon should I teach?$"
 
 MoveTutor_Text_SleepTalkTaught: @ 82C775A
-	.string "Now that POKéMON can attack\n"
-	.string "while sleeping with SLEEP TALK!\p"
-	.string "I wonder if humans can SLEEP TALK\n"
+	.string "Now that Pokémon can attack\n"
+	.string "while sleeping with Sleep Talk!\p"
+	.string "I wonder if humans can Sleep Talk\n"
 	.string "to nap while working?\p"
 	.string "Yawn…\n"
 	.string "…Zzz…zzz…$"
@@ -1598,7 +1598,7 @@ Text_SleepTalkReteach::
 	.string "…Huh?\l"
 	.string "…Oh, you're back.\p"
 	.string "Yawn… Do you want me to teach\n"
-	.string "your POKéMON SLEEP TALK again?\p"
+	.string "your Pokémon Sleep Talk again?\p"
 	.string "I lost my bonus by always\n"
 	.string "oversleeping on my breaks…\p"
 	.string "I'll do it for some extra money.\n"
@@ -1606,7 +1606,7 @@ Text_SleepTalkReteach::
 
 Text_SleepTalkReteach2::
     .string "Are you interested in teaching\n"
-	.string "your POKéMON SLEEP TALK?$"
+	.string "your Pokémon Sleep Talk?$"
 
 Text_SleepTalkNotEnoughMoney::
 	.string "Oh, you don't have enough money.\n"
@@ -1690,14 +1690,14 @@ MoveTutor_Text_NightmareTeach: @ 82C7637
 	.string "Waaah!\n"
 	.string "Oh no, not another one…\p"
 	.string "I keep having nightmares that\n"
-	.string "TEAM ROCKET comes back and locks\l"
+	.string "Team Rocket comes back and locks\l"
 	.string "me up again.\p"
 	.string "I haven't had a good night's sleep\n"
 	.string "since they took over.\p"
-	.string "I can teach your POKéMON to give\n"
-	.string "nightmares just like TEAM ROCKET.$"
-	.string "Do you want your POKéMON\n"
-	.string "to learn NIGHTMARE?$"
+	.string "I can teach your Pokémon to give\n"
+	.string "nightmares just like Team Rocket.$"
+	.string "Do you want your Pokémon\n"
+	.string "to learn Nightmare?$"
 
 MoveTutor_Text_NightmareDeclined: @ 82C76E2
 	.string "You don't want to risk it\n"
@@ -1705,10 +1705,10 @@ MoveTutor_Text_NightmareDeclined: @ 82C76E2
 
 MoveTutor_Text_NightmareWhichMon: @ 82C7721
 	.string "Alright.\n"
-	.string "Which POKéMON should learn it?$"
+	.string "Which Pokémon should learn it?$"
 
 MoveTutor_Text_NightmareTaught: @ 82C775A
-	.string "Now that POKéMON can inflict\n"
+	.string "Now that Pokémon can inflict\n"
 	.string "nightmares on sleeping foes.\p"
 	.string "Now if only I could find some\n"
 	.string "way of getting rid of my nightmares…$"
@@ -1720,13 +1720,13 @@ Text_NightmareReteach::
 	.string "where it all happened might cure\l"
 	.string "my nightmares, but…\p"
 	.string "Are you back to teach your\n"
-	.string "POKéMON NIGHTMARE again?\p"
+	.string "Pokémon Nightmare again?\p"
 	.string "If you have ¥5000, I'll show\n"
 	.string "one of them how to use it.$"
 
 Text_NightmareReteach2::
-    .string "Do you want your POKéMON\n"
-	.string "to learn NIGHTMARE?$"
+    .string "Do you want your Pokémon\n"
+	.string "to learn Nightmare?$"
 
 Text_NightmareNotEnoughMoney::
 	.string "You don't have ¥5000?\p"
@@ -1815,22 +1815,22 @@ MoveTutor_Text_SelfdestructTeach: @ 82C7637
 	.string "town within three years for sure!\p"
 	.string "It'll be like the whole island\n"
 	.string "self-destructed in a fiery inferno!\p"
-	.string "POKéMON can use a similar move to\n"
+	.string "Pokémon can use a similar move to\n"
 	.string "explode and deal damage, actually.\p"
 	.string "Do you want me to teach your\n"
-	.string "POKéMON how to use SELFDESTRUCT?$"
+	.string "Pokémon how to use SelfDestruct?$"
 
 MoveTutor_Text_SelfdestructDeclined: @ 82C76E2
-	.string "Is SELFDESTRUCT too risky for\n"
+	.string "Is SelfDestruct too risky for\n"
 	.string "you to use in battle?$"
 
 MoveTutor_Text_SelfdestructWhichMon: @ 82C7721
-	.string "So which POKéMON should learn\n"
+	.string "So which Pokémon should learn\n"
 	.string "this high-risk move?$"
 
 MoveTutor_Text_SelfdestructTaught: @ 82C775A
 	.string "Now the terrifying power of\n"
-	.string "SELFDESTRUCT is yours to command!\p"
+	.string "SelfDestruct is yours to command!\p"
 	.string "We won't be able to control the\n"
 	.string "volcano in the same way, though…\p"
 	.string "The only thing to do now is start\n"
@@ -1844,16 +1844,16 @@ Text_SelfdestructReteach::
 	.string "Oh, hello again!\p"
 	.string "I'm just planning for the imminent\n"
 	.string "destruction of everything here.\p"
-	.string "Do you want to learn SELFDESTRUCT\n"
+	.string "Do you want to learn SelfDestruct\n"
 	.string "again before the inevitable occurs?\p"
 	.string "I'm taking donations for the\n"
 	.string "evacuation plans.\p"
 	.string "Donate ¥5000 and I'll teach one of\n"
-	.string "your POKéMON SELFDESTRUCT.$"
+	.string "your Pokémon SelfDestruct.$"
 
 Text_SelfdestructReteach2::
     .string "Do you want me to teach your\n"
-	.string "POKéMON how to use SELFDESTRUCT?$"
+	.string "Pokémon how to use SelfDestruct?$"
 
 Text_SelfdestructNotEnoughMoney::
 	.string "We need every bit of financial\n"
@@ -1936,26 +1936,26 @@ EventScript_SkyAttackDeclined2:: @ 81C48D2
 MoveTutor_Text_SkyAttackTeach: @ 82C7637
 	.string "We're so high up, it's like we can\n"
 	.string "touch the sky.\p"
-	.string "Bird POKéMON must feel like\n"
+	.string "Bird Pokémon must feel like\n"
 	.string "this all the time…\p"
 	.string "How, you ask?\n"
 	.string "Do you not know?\p"
 	.string "They can learn a move that brings\n"
 	.string "the sky crashing down on others!\p"
 	.string "Would you like me to teach your\n"
-	.string "POKéMON SKY ATTACK?$"
+	.string "Pokémon Sky Attack?$"
 
 MoveTutor_Text_SkyAttackDeclined: @ 82C76E2
 	.string "I suppose not everyone wants\n"
 	.string "to touch the sky.$"
 
 MoveTutor_Text_SkyAttackWhichMon: @ 82C7721
-	.string "Who should learn SKY ATTACK?$"
+	.string "Who should learn Sky Attack?$"
 
 MoveTutor_Text_SkyAttackTaught: @ 82C775A
-	.string "SKY ATTACK is the ultimate\n"
-	.string "FLYING-type move.\p"
-	.string "Your POKéMON will make good\n"
+	.string "Sky Attack is the ultimate\n"
+	.string "Flying-type move.\p"
+	.string "Your Pokémon will make good\n"
 	.string "use of its power, I'm sure.$"
 
 Text_SkyAttackReteach::
@@ -1964,13 +1964,13 @@ Text_SkyAttackReteach::
 	.string "Being this close to the sky\n"
 	.string "feels amazing, right?\p"
 	.string "If you're interested, I can\n"
-	.string "teach your POKéMON SKY ATTACK.\p"
+	.string "teach your Pokémon Sky Attack.\p"
 	.string "This time, though, I'll need ¥5000\n"
 	.string "to do it!$"
 
 Text_SkyAttackReteach2::
 	.string "Would you like me to teach your\n"
-	.string "POKéMON SKY ATTACK?$"
+	.string "Pokémon Sky Attack?$"
 
 Text_SkyAttackNotEnoughMoney::
 	.string "You don't have enough money,\n"
@@ -2050,26 +2050,26 @@ EventScript_SwaggerDeclined2:: @ 81C48D2
 	end
 
 MoveTutor_Text_SwaggerTeach: @ 82C6E37
-	.string "Heh! My POKéMON totally rules!\n"
-	.string "It's cooler than any POKéMON!\p"
+	.string "Heh! My Pokémon totally rules!\n"
+	.string "It's cooler than any Pokémon!\p"
 	.string "I was lipping off with a swagger in\n"
 	.string "my step like that when some guy\l"
 	.string "named {RIVAL} challenged me.\p"
 	.string "He beat us without any effort and\n"
 	.string "took the swagger out of my step.\p"
 	.string "If you'd like, I'll teach the move\n"
-	.string "SWAGGER to a POKéMON of yours.$"
+	.string "Swagger to a Pokémon of yours.$"
 
 MoveTutor_Text_SwaggerDeclined: @ 82C6F33
 	.string "What, no? Can't you get into\n"
 	.string "the spirit of things?$"
 
 MoveTutor_Text_SwaggerWhichMon: @ 82C6F66
-	.string "All right, which POKéMON wants to\n"
-	.string "learn how to SWAGGER?$"
+	.string "All right, which Pokémon wants to\n"
+	.string "learn how to Swagger?$"
 
 MoveTutor_Text_SwaggerTaught: @ 82C6F9E
-	.string "I'll just praise my POKéMON from\n"
+	.string "I'll just praise my Pokémon from\n"
 	.string "now on without the swagger.$"
 
 Text_SwaggerReteach::
@@ -2077,15 +2077,15 @@ Text_SwaggerReteach::
 	.string "so badly to that {RIVAL} guy.\p"
 	.string "But I still know how to walk\n"
 	.string "with a swagger in my step!\p"
-	.string "I can teach your POKéMON how\n"
-	.string "to use SWAGGER again.\p"
+	.string "I can teach your Pokémon how\n"
+	.string "to use Swagger again.\p"
 	.string "However, the price of learning how\n"
 	.string "to swagger like me is a cool ¥5000.$"
 
 Text_SwaggerReteach2::
 	.string "Do you want me to teach the move\n"
-	.string "SWAGGER to a POKéMON of yours?$"
+	.string "Swagger to a Pokémon of yours?$"
 
 Text_SwaggerNotEnoughMoney::
-	.string "No money, no SWAGGER!\n"
+	.string "No money, no Swagger!\n"
 	.string "Come back with ¥5000 next time!$"

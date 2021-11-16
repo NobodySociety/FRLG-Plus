@@ -58,16 +58,16 @@ Movement_FujiToHouseAroundPlayer:
 	step_end
 
 EventScript_FujiOutside_Text_0:
-	.string "MR. FUJI: {PLAYER}!\nHow is your quest going?\pAh, you and your POKéMON are\nthe POKéMON LEAGUE CHAMPIONS!\pCongratulations!\nYour deep love for your POKéMON\lis obvious to anyone.\pI have a favor to ask.\pThere is an island far from KANTO\nwhere a certain POKéMON lives.\pThat POKéMON was mistreated by\nhumans in the past.\pI was hoping you would befriend\nthat POKéMON and show it that\lhumans can be kind and gentle.\pWill you do this for me?$"
+	.string "Mr. Fuji: {PLAYER}!\nHow is your quest going?\pAh, you and your Pokémon are\nthe Pokémon League Champions!\pCongratulations!\nYour deep love for your Pokémon\lis obvious to anyone.\pI have a favor to ask.\pThere is an island far from Kanto\nwhere a certain Pokémon lives.\pThat Pokémon was mistreated by\nhumans in the past.\pI was hoping you would befriend\nthat Pokémon and show it that\lhumans can be kind and gentle.\pWill you do this for me?$"
 
 EventScript_FujiOutside_Text_1:
-	.string "Helping this POKéMON is very\nimportant to me, {PLAYER}.\pPlease tell me you'll help.$"
+	.string "Helping this Pokémon is very\nimportant to me, {PLAYER}.\pPlease tell me you'll help.$"
 
 EventScript_FujiOutside_Text_2:
-	.string "MR. FUJI: Thank you, {PLAYER}.\pI have an old map to the island.\nI'm sure you've befriended a sailor\lor two during your quest.\pThey will be able to read this\nmap and take you there.$"
+	.string "Mr. Fuji: Thank you, {PLAYER}.\pI have an old map to the island.\nI'm sure you've befriended a sailor\lor two during your quest.\pThey will be able to read this\nmap and take you there.$"
 
 EventScript_FujiOutside_Text_3:
-	.string "{PLAYER} received an OLD SEA MAP\nfrom MR. FUJI.$"
+	.string "{PLAYER} received an Old Sea Map\nfrom Mr. Fuji.$"
 
 EventScript_FujiOutside_Text_4:
-	.string "MR. FUJI: I know you will treat that\nPOKéMON with love and kindness.\pThank you, {PLAYER}.$"
+	.string "Mr. Fuji: I know you will treat that\nPokémon with love and kindness.\pThank you, {PLAYER}.$"

@@ -117,6 +117,6 @@ EventScript_SafariZone_ExtensionSign::
 	end
 
 Text_SafariZone_ExtensionSign::
-	.string "The SAFARI ZONE's expansion project\n"
+	.string "The Safari Zone's expansion project\n"
 	.string "is finally complete!\p"
-	.string "The new AREA 4 is straight ahead!$"
+	.string "The new Area 4 is straight ahead!$"

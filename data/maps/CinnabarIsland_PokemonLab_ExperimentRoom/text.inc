@@ -1,9 +1,9 @@
 Text_MetronomeTeach:: @ 819A137
     .string "Tch-tch-tch!\n"
     .string "I'll teach you a nifty move.\p"
-    .string "Teach it to a POKéMON, and watch\n"
+    .string "Teach it to a Pokémon, and watch\n"
     .string "the fun unfold!\p"
-    .string "It's a move called METRONOME.\n"
+    .string "It's a move called Metronome.\n"
     .string "Does it strike your fancy?$"
 
 Text_MetronomeDeclined:: @ 819A1CB
@@ -11,23 +11,23 @@ Text_MetronomeDeclined:: @ 819A1CB
 
 Text_MetronomeWhichMon:: @ 819A1EA
     .string "Okay!\n"
-    .string "Which POKéMON should I teach?$"
+    .string "Which Pokémon should I teach?$"
 
 Text_MetronomeTaught:: @ 819A20E
     .string "Tch-tch-tch!\n"
-    .string "That's the sound of a METRONOME.\p"
-    .string "It tweaks your POKéMON's brain into\n"
+    .string "That's the sound of a Metronome.\p"
+    .string "It tweaks your Pokémon's brain into\n"
     .string "using moves it doesn't even know.$"
 
 Text_MetronomeReteach::
     .string "Tch-tch-tch!\n"
-    .string "The METRONOME ticks eternally!\p"
-    .string "I'll teach you METRONOME again\n"
+    .string "The Metronome ticks eternally!\p"
+    .string "I'll teach you Metronome again\n"
     .string "in exchange for ¥5000.$"
 
 Text_MetronomeReteach2::
     .string "Tch-tch-tch!\n"
-    .string "Let me teach METRONOME?$"
+    .string "Let me teach Metronome?$"
 
 Text_MetronomeNotEnoughMoney::
     .string "Tch-tch-tch!\p"
@@ -38,7 +38,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe:: @ 819A282
     .string "Hiya!\p"
     .string "I am important doctor.\n"
     .string "Yes, very much so, indeed.\p"
-    .string "Here, I study rare POKéMON fossils.\n"
+    .string "Here, I study rare Pokémon fossils.\n"
     .string "All the time, I study.\p"
     .string "You!\n"
     .string "Have you a fossil for me?$"
@@ -61,9 +61,9 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
     .string "Oh!\n"
     .string "That is {STR_VAR_2}, it is!\p"
     .string "It is fossil of {STR_VAR_1},\n"
-    .string "a POKéMON that is already extinct!\p"
+    .string "a Pokémon that is already extinct!\p"
     .string "My Resurrection Machine will make\n"
-    .string "that POKéMON live again!$"
+    .string "that Pokémon live again!$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor:: @ 819A45D

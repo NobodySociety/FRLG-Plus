@@ -4,7 +4,7 @@ ThreeIsland_DunsparceTunnel_Text_ProspectingForGold:: @ 817D13B
     .string "What am I doing here, you ask?\n"
     .string "Why, I'm prospecting for gold!\p"
     .string "When I strike it rich, I'm buying\n"
-    .string "a house in KANTO.$"
+    .string "a house in Kanto.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou:: @ 817D1C9
     .string "Hey, there! How's it going?\n"
@@ -24,7 +24,7 @@ ThreeIsland_DunsparceTunnel_Text_ThatsANugget:: @ 817D28C
     .string "wisdom, so that'll have to do!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull:: @ 817D2DC
-    .string "Whoops, your BAG is crammed full!\n"
+    .string "Whoops, your Bag is crammed full!\n"
     .string "I'll give this to you later.$"
 
 ThreeIsland_DunsparceTunnel_Text_ObtainedFossil::

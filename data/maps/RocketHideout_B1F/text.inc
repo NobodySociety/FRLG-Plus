@@ -7,11 +7,11 @@ RocketHideout_B1F_Text_Grunt1Defeat:: @ 8174EED
     .string "Beaten!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle:: @ 8174EFA
-    .string "Blast it… You're dissing TEAM\n"
-    .string "ROCKET, aren't you?$"
+    .string "Blast it… You're dissing Team\n"
+    .string "Rocket, aren't you?$"
 
 RocketHideout_B1F_Text_Grunt2Intro:: @ 8174F2C
-    .string "You broke into TEAM ROCKET's\n"
+    .string "You broke into Team Rocket's\n"
     .string "operation? What nerve!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat:: @ 8174F60
@@ -28,7 +28,7 @@ RocketHideout_B1F_Text_Grunt3Defeat:: @ 8174FA4
     .string "I can't do it!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle:: @ 8174FB3
-    .string "SILPH SCOPE? Humph!\n"
+    .string "Silph Scope? Humph!\n"
     .string "I don't know where it is.$"
 
 RocketHideout_B1F_Text_Grunt4Intro:: @ 8174FE1
